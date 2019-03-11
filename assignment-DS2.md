@@ -1,7 +1,6 @@
-<center>
+
 # Disease understanding: Dealing with complex and unstructured big data in biomedical domain (Dr. Alehjandro Rodríguez)
-</center>
--
+
 
 - Authors: 
 	- Roberto Llop Cardenal - robertollocardenal@gmail.com
