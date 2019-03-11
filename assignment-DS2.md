@@ -178,7 +178,7 @@ RETURN d,s
 </center>
 
 
-- **Query 5 **: The two diseases with more symptoms and the symptoms they have in common. The result should be the disease beriberi and encephalomyelitis with nine symptom nodes in common.
+- **Query 5**: The two diseases with more symptoms and the symptoms they have in common. The result should be the disease beriberi and encephalomyelitis with nine symptom nodes in common.
 
 ~~~
 MATCH (d)-[:HAS]->(s)
