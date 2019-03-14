@@ -1,5 +1,5 @@
 
-# Disease understanding: Dealing with complex and unstructured big data in biomedical domain (Dr. Alehjandro Rodríguez)
+# Disease understanding: Dealing with complex and unstructured big data in biomedical domain (Dr. Alejandro Rodríguez)
 
 
 - Authors: 
